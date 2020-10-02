@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: benbalter/retlab
 title: Il rivistaio
 description: Le riviste letterarie pinzate assieme
